@@ -1,7 +1,7 @@
 
-# Todo List Project
+# Task-Wise
 
-This is a simple Todo List web application that allows you to manage your tasks. You can add tasks with titles and descriptions, display all the tasks, delete individual tasks, and clear the entire task list.
+This is a simple Task Manager web application that allows you to manage your tasks. You can add tasks with titles and descriptions, display all the tasks, delete individual tasks, and clear the entire task list.
 
 ## Features
 
